@@ -1,3 +1,5 @@
+![ezgif com-optimize (1)](https://github.com/Emr1s/Mountain-Expedition-Club/assets/33460622/b9f72b6b-32b1-42bd-9e82-91367bf407ba)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
